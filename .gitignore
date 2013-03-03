@@ -1,0 +1,8 @@
+*.o
+*.xls
+*.gpr
+*.gdt
+*.zip
+*.rgd
+*~
+*.exe
